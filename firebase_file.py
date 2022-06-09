@@ -1,11 +1,11 @@
 import  pyrebase                                 
 
 config={
-  "apiKey": "AIzaSyDQjCsv8Wucp_EnMFvMKc8-0Zoy8k57eng",
-  "authDomain": "cloud-d3667.firebaseapp.com",
-  "projectId": "cloud-d3667",
-  "databaseURL":"https://cloud-d3667.firebaseio.com",
-  "storageBucket": "cloud-d3667.appspot.com",
+  "apiKey": "AIzaSyBA3070LTSIOeGEPU6WRpRWC1LaTYFjJa8",
+  "authDomain": "cloud-malware.firebaseapp.com",
+  "projectId": "cloud-malware",
+  "storageBucket": "cloud-malware.appspot.com",
+  "databaseURL":"https://cloud-malware.firebaseio.com",
   "serviceAccount":"service_key.json"
    }
 
