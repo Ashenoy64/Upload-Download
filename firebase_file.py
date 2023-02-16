@@ -1,12 +1,12 @@
 import  pyrebase                                 
 
 config={
-  "apiKey": "AIzaSyBA3070LTSIOeGEPU6WRpRWC1LaTYFjJa8",
-  "authDomain": "cloud-malware.firebaseapp.com",
-  "projectId": "cloud-malware",
-  "storageBucket": "cloud-malware.appspot.com",
-  "databaseURL":"https://cloud-malware.firebaseio.com",
-  "serviceAccount":"service_key.json"
+  "apiKey": "",
+  "authDomain": ""
+  "projectId": "",
+  "storageBucket": "",
+  "databaseURL":"",
+  "serviceAccount":""
    }
 
 firebase=pyrebase.initialize_app(config)
