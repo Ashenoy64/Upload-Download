@@ -1,6 +1,6 @@
 # File Upload and Download 
 
-This project demonstrates how to upload and download files using Google Cloud Storage in Python. Google Cloud Storage is a powerful and scalable object storage service that allows you to store and retrieve any amount of data at any time.
+This project demonstrates how to upload and download files using Google Cloud and Firebase in Python. Google Cloud Storage is a powerful and scalable object storage service that allows you to store and retrieve any amount of data at any time.
 
 ## Getting Started
 
@@ -23,4 +23,3 @@ PROJECT_ID=your-firebase-project-id
 STORAGE_BUCKET=your-firebase-storage-bucket
 ```
 
-Thank you for using the File Upload and Download project with Google Cloud and Python. If you have any questions or feedback, feel free to reach out. Happy coding! 🚀
